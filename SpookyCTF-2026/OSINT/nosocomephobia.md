@@ -34,6 +34,6 @@ Flag: spooky{north_wales_hospital.1966}
 ```
 
 ### Takeaways
-Always run exiftool or check IPTC/XMP on images. This one had the town name in the caption.
-A pure single-frequency tone that keeps switching on and off is Morse. Filter around the tone, take the envelope and look at the run lengths.
-When the decoded message does not hold the answer, the content of the message is the next clue.
+- Always run exiftool or check IPTC/XMP on images. This one had the town name in the caption.
+- A pure single-frequency tone that keeps switching on and off is Morse.
+- When the decoded message does not hold the answer, the content of the message is the next clue.
